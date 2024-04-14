@@ -15,4 +15,4 @@
   - storageLinkTemplate: *the database URL template for optuna*
 
 # IMPORTANT
-remember to set you **own** database URL in `storageLinkTemplate.txt` and **change the name** of it to `storageLink.txt` after set the your own database URL, this file will be ignored in .gitignore to protect you database from leak
+remember to set your **own** database URL in `storageLinkTemplate.txt` and then **change the name** of it to `storageLink.txt`, this file will be ignored in .gitignore to protect you database from leak
