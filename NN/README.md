@@ -1,1 +1,1 @@
-# Here are codes for nueral network
+# Here are the codes for nueral network
