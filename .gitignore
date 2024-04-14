@@ -1,0 +1,12 @@
+# ignore database url
+storageLink.txt
+
+# ignore sensitive data
+*.zip
+*.xlsx
+
+# ignore test code
+test.py
+
+# ignore mac cache
+*.DS_Store
