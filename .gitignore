@@ -7,6 +7,10 @@ storageLink.txt
 
 # ignore test code
 test.py
+/test/
+
+# ignore log
+/lightning_logs/
 
 # ignore mac cache
 *.DS_Store
