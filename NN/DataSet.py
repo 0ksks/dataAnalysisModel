@@ -7,7 +7,7 @@ from typing import Union
 
 class __DatasetName(Dataset):
     def __init__(self, params:dict=None) -> None:
-        self.data = np.random.randint(1,10,(100,2))
+        self.data = np.random.randint(1,10,(10000,2))
     def __len__(self) -> int:
         return self.data.shape[0]
     def __getitem__(self, index):
